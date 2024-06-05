@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * Auth: Benjamin Alfayo and Oscar Obado
+ * Auth: bENJAMIN aLFAYO AND oSCAR oBADO
  * enqueue_item_4 - Adds an item to a queue.
  * @queue_h: A pointer to the queue's head.
  * @queue_t: A pointer to the queue's tail.
