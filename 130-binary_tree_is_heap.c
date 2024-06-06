@@ -1,7 +1,6 @@
 #include "binary_trees.h"
 
 /**
- * Auth: Benjamin Alfayo and Oscar Obado
  * binary_tree_is_heap - checks if a binary tree is a valid Max Binary Heap
  * @tree: a pointer to the root node of the tree to check
  *

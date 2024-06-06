@@ -1,7 +1,6 @@
 #include "binary_trees.h"
 
 /**
- * Auth: Benjamin Alfayo and Oscar Obado
  * sorted_array_to_avl - builds an AVL tree from an array
  * @array: a pointer to the first element of the array to be converted
  * @size: number of elements in the array

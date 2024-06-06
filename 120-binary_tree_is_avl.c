@@ -1,7 +1,6 @@
 #include "binary_trees.h"
 
 /**
- * Auth: Benjamin Alfayo and Oscar Obado
  * binary_tree_is_avl - finds if a binary tree is an avl
  * @tree: pointer to the root node of the tree
  *
